@@ -4,7 +4,7 @@
 </h3>
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mc7y8z10tcr3mz6gs1s4ocjw7fllzs5i6d5gm5we&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mc7y8z10tcr3mz6gs1s4ocjw7fllzs5i6d5gm5we&rid=giphy.gif&ct=g" width="450"/>
 </div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
