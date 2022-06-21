@@ -39,12 +39,14 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/Andre6-dev/Profinder_Project3"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre6-dev&repo=Profinder_Project3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/Andre6-dev/beatscode_project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre6-dev&repo=eShopBackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/Andre6-dev/eShopBackEnd"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andre6-dev&repo=eShopBackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Andre6-dev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
 
 ## 🔥 Streak stats
 
